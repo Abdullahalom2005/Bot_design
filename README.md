@@ -1,5 +1,3 @@
-Ah, I see exactly what happened! When you highlight and copy the text directly from the chat screen, some platforms strip out all the invisible line breaks and formatting, turning it into a giant wall of text.To fix this so you can copy it perfectly, I have placed the entire README inside a code block below.All you need to do is click the small "Copy" button that appears in the top-right corner of the block below, and then paste it into your GitHub repository. It will keep all the tables, fonts, and spacing perfectly intact!Markdown# 🤖 Line Following Bot with Vision Integration
-
 > **Autonomous line-following robot with real-time object detection, obstacle avoidance, and a live web dashboard.**
 
 ## 📋 Project Overview
